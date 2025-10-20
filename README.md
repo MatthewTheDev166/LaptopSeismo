@@ -14,11 +14,6 @@ Built with **.NET 9** and **WPF**, it visualizes real accelerometer data directl
 
 ---
 
-## 🎥 Demo Video
-
-<p align="center">
-  <video src="demo.mp4" width="700" controls></video>
-</p>
 
 *(If the video doesn’t play inline, click “Download” to view it on GitHub.)*
 
@@ -30,7 +25,6 @@ Built with **.NET 9** and **WPF**, it visualizes real accelerometer data directl
 - ⚙️ Adjustable **sensitivity** slider for fine-tuned response  
 - 🌑 **Dark, modern UI** inspired by real seismographs  
 - 📊 Optional **axis lines** for clean reference visuals  
-- 💾 **Save waveform snapshot** as PNG  
 - ⚡ Smooth 60 FPS drawing with WPF hardware acceleration  
 - 🧭 Uses the Windows **Sensor API** (`Windows.Devices.Sensors`)  
 
