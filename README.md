@@ -35,3 +35,8 @@ LaptopSeismo reads live acceleration values from your laptop’s internal motion
 ```csharp
 using Windows.Devices.Sensors;
 var accel = Accelerometer.GetDefault();
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MatthewTheDev166/LaptopSeismo&type=date&legend=top-left)](https://www.star-history.com/#MatthewTheDev166/LaptopSeismo&type=date&legend=top-left)
