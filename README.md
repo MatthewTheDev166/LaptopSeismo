@@ -15,9 +15,7 @@ Built with **.NET 9** and **WPF**, it visualizes real accelerometer data directl
 ---
 
 
-*(If the video doesn’t play inline, click “Download” to view it on GitHub.)*
 
----
 
 ## ✨ Features
 
