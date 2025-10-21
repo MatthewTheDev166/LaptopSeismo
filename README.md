@@ -35,6 +35,12 @@ LaptopSeismo reads live acceleration values from your laptop’s internal motion
 using Windows.Devices.Sensors;
 var accel = Accelerometer.GetDefault();
 ```
+## disclaimer 
+
+This app is made with the help of Ai (codex)
+
+
+
 
 ## ⭐ Star History
 
