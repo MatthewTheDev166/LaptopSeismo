@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/MatthewTheDev166/LaptopSeismo/total)
 #  LaptopSeismo
 
 **LaptopSeismo** turns your laptop’s accelerometer into a **real-time digital seismograph.**  
